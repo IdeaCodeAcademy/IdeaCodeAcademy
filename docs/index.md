@@ -10,4 +10,4 @@ Facebook Page [IdeaCode Academy](https://www.facebook.com/ideacodeacademy).
 
 ## CI/CD
 
-* [Deploy to Remote Server Using SSH and GitHub Actions](https://ideacodeacademy.github.io/Deploy-to-Remote-Server-Using-SSH-and-GitHub-Actions/)
+* [Deploy to Remote Server Using SSH and GitHub Actions](Deploy-to-Remote-Server-Using-SSH-and-GitHub-Actions.md)
