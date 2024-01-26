@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome From IdeaCode Academy
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Facebook Page [IdeaCode Academy](https://www.facebook.com/ideacodeacademy).
 
-## Commands
+# Tutorials
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Odoo
 
-## Project layout
+* [Set up a content delivery network CDN](set-up-a-content-delivery-network-cdn.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## CI/CD
+
+* [Deploy to Remote Server Using SSH and GitHub Actions](https://ideacodeacademy.github.io/Deploy-to-Remote-Server-Using-SSH-and-GitHub-Actions/)
