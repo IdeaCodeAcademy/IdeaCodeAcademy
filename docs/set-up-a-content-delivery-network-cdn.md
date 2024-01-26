@@ -17,7 +17,7 @@
 
       ![img_3.png](set-up-a-content-delivery-network-cdn%2Fimg_3.png)
 
-   5. မိမိတို့၏ odoo server ကို CDN ဖြင့် ချိတ်ဆက်ရန်အတွက် CDN settings ကို on နိုင်ရန် developer mode ဖွင့်ထားရပါမည်။ လွယ်လွယ်ကူကူဖြစ်စေရန် url တွင် web နောက်မှ `?debug=1` ဆိုသည့် optional ကို အသုံးပြုပြီး ဖွင့်နိုင်ပါသည်။
+   5. မိမိတို့၏ odoo server ကို CDN ဖြင့် ချိတ်ဆက်ရန်အတွက် CDN settings ကို on နိုင်ရန် developer mode ဖွင့်ထားရပါမည်။ လွယ်လွယ်ကူကူဖြစ်စေရန် url တွင် web နောက်မှ `?debug=1` ဆိုသည့် optional parameter ကို အသုံးပြုပြီး ဖွင့်နိုင်ပါသည်။
       
       Original URL - 
 
