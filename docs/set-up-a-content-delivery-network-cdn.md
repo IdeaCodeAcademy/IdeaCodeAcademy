@@ -12,24 +12,25 @@
 
       ![img_2.png](set-up-a-content-delivery-network-cdn%2Fimg_2.png)
 
-   4. ယခုအချိန်တွင် မိမိတို့ ဖြည့်သွင်းလိုက်သော pulltest ဆိုသည့် zone ကို eploy ပြုလုပ်ရန် ဆယ်မိနစ်ခံကြာပါမည် ဆိုသည့်စာသားနှင့်အတး အောက်ပါအတိုင်း တွေ့ရပါမည်။
+   4. ယခုအချိန်တွင် မိမိတို့ ဖြည့်သွင်းလိုက်သော pulltest ဆိုသည့် zone ကို deploy ပြုလုပ်ရန် ဆယ်မိနစ်ခန့်ကြာပါမည် ဆိုသည့်စာသားနှင့်အတူ အောက်ပါအတိုင်း တွေ့ရပါမည်။
       deploy ပြီးဆုံးသည့်အခါတွင် ID Column ဘေးမှ status တွင် ဒုတိယ zone အတိုင်း အစိမ်းရောင်ဖြင့် ဖော်ပြပါလိမ့်မည်။ deploy ပြုလုပ်ပြီးလျှင် `Zone URL` ကို copy ကူးပါ။
 
       ![img_3.png](set-up-a-content-delivery-network-cdn%2Fimg_3.png)
 
-   5. မိမိတို့၏ odoo server ကို CDN ဖြင့် ချိတ်ဆက်ရန်အတွက် CDN settings ကို on နိုင်ရန် developer mode ဖွင့်ထားရပါမည်။ လွယ်လွယ်ကူကူဖြစ်စေရန် url တွင် web နောက်မှ `?debug=1` ဆိုသည့် optional parameter ကို အသုံးပြုပြီး ဖွင့်နိုင်ပါသည်။
+   5. မိမိတို့၏ odoo server ကို CDN ဖြင့် ချိတ်ဆက်ရန်အတွက် CDN settings ကို on နိုင်ရန် developer mode ဖွင့်ထားရပါမည်။ 
+      လွယ်လွယ်ကူကူဖြစ်စေရန် url တွင် web နောက်မှ `?debug=1` ဆိုသည့် optional parameter ကို အသုံးပြုပြီး ဖွင့်နိုင်ပါသည်။
       
-      Original URL - 
+            Original URL - 
 
-      ``` 
-      https://runbot.odoo.com/web#active_id=mail.box_inbox
-      ```
+            ``` 
+            https://runbot.odoo.com/web#active_id=mail.box_inbox
+            ```
       
-      Debug On -
+            Debug On -
       
-      ```
-      https://runbot.odoo.com/web?debug=1#active_id=mail.box_inbox
-      ```
+            ```
+            https://runbot.odoo.com/web?debug=1#active_id=mail.box_inbox
+            ```
       
    6. ဆက်လက်ပြီး website settings ထဲမှ Content Delivery Network (CDN) ကို on ပေးရပါမည်။ 
       
